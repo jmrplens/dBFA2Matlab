@@ -3,7 +3,7 @@ addpath('include')
 % Archivo a importar
 TXT='Demo-48receptores.txt';
 
-% Valor a analizar '0 a Val' y 'Val a infinito'
+% Valor a analizar '0 a Val' (campo util) y 'Val a infinito' (perjudicial)
 t0 = 50; % (ms)
 
 % Tiempo de campo directo (milisegundos)
