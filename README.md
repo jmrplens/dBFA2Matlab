@@ -7,7 +7,7 @@ En dBFA seleccionar las medidas y en la herramienta de calculo seleccionar `Ecog
 
 En el script se debe indicar la posición de la fuente y de los receptores, en el mismo orden que se han seleccionado al exportar. Si se va a calcular la teoría revisada corregida se deben incluir los parámetros del recinto y de la fuente.
 
-**Para conocer en profundidad el concepto de la teoría revisada corregida dejo a disposicion mi trabajo ubicado en el repositorio de una Universidad de Alicante <a href="https://rua.ua.es/dspace/handle/10045/77578">Leer</a>**
+**Para conocer en profundidad el concepto de la teoría revisada corregida dejo a disposición mi trabajo ubicado en el repositorio de una Universidad de Alicante <a href="https://rua.ua.es/dspace/handle/10045/77578">Leer</a>**
 
 ```matlab
 % Valor a analizar '0 a Val' (campo útil) y 'Val a infinito' (perjudicial)
